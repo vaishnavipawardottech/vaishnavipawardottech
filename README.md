@@ -2,12 +2,15 @@
   <img src="./Vaishnavi Pawar.png" width="100%" alt="Vaishnavi Pawar GitHub Banner">
 </p>
 
+---
 
 🌱 **About Me**
 - 🎓 B-tech in Computer Engineering from VIIT, Pune (2022-2026)
 - 💼 Completed an 8-month Software Engineering Internship at Vistora AI
 - ⚙️ Skilled in Linux, Git, Docker, CI/CD, GitHub Actions, Jenkins, Kubernetes and AWS interested in Containerization, Automation, and Cloud Infrastructure
 - 🎯 Actively seeking entry-level opportunity in DevOps and Cloud
+
+---
 
 ### 🧰 Tools & Technologies
 
@@ -35,3 +38,13 @@
 ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
 ![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aqua&logoColor=white)
 ![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
+
+---
+
+👉 **Let's Connect!**
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/vaishnavipawar04/)
+- 💻 [GitHub](https://github.com/vaishnavipawardottech)
+- 📧 pawarvaishnavi.3010@gmail.com  
+
+---
