@@ -1,4 +1,6 @@
-# Hi, I'm Vaishnavi Pawar 👋
+<p align="center">
+  <img src="./Vaishnavi Pawar.png" width="100%" alt="Vaishnavi Pawar GitHub Banner">
+</p>
 
 I'm a Computer Engineering graduate and Software Engineer interested in building scalable web applications and learning DevOps.
 
