@@ -4,13 +4,10 @@
 
 I'm a Computer Engineering graduate and Software Engineer interested in building scalable web applications and learning DevOps.
 
-### 💫 About Me
-* Software Engineer Intern
-* Interested in Full-Stack Development, DevOps and Cloud
-* Practicing Linux, Git, Shell Scripting, AWS and CI/CD
-* Building projects to strengthen my development and DevOps skills
+🌱 **About Me**
+- 🎓 B-tech in Computer Engineering from VIIT, Pune (2022-2026)
+- 💼 Completed an 8-month Software Engineering Internship at Vistora AI
+- ⚙️ Skilled in Linux, Git, Docker, CI/CD, GitHub Actions, Jenkins, Kubernetes and AWS interested in Containerization, Automation, and Cloud Infrastructure
+- 🎯 Actively seeking entry-level opportunity in DevOps and Cloud
 
 
-### 🤝 Connect With Me
-
-[LinkedIn](https://www.linkedin.com/in/vaishnavi-pawar-76a620260/)
