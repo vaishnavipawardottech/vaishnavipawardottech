@@ -14,16 +14,12 @@
 
 ### 🧰 Tools & Technologies
 
-### 🧰 Tools & Technologies
-
 <div align="left">
 
 <b>🐧 Linux & Scripting</b>
 <br/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-
-<br/><br/>
 
 <b>🔀 Version Control</b>
 <br/>
