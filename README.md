@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./Vaishnavi Pawar.png" width="100%" alt="Vaishnavi Pawar GitHub Banner">
+  <img src="./Vaishnavi_Pawar.png" width="100%" alt="Vaishnavi Pawar GitHub Banner">
 </p>
 
 ---
