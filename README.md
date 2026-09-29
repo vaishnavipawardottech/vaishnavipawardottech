@@ -7,14 +7,21 @@
 🌱 **About Me**
 - 🎓 B-tech in Computer Engineering from VIIT, Pune (2022-2026)
 - 💼 Completed an 8-month Software Engineering Internship at Vistora AI
-- ⚙️ Skilled in Linux, Git, Docker, CI/CD, GitHub Actions, Jenkins, Kubernetes and AWS interested in Containerization, Automation, and Cloud Infrastructure
-- 🎯 Actively seeking entry-level opportunity in DevOps and Cloud
+- ⚙️ Skilled in Java, Spring Boot, JavaScript, Linux, Git, Docker, CI/CD, GitHub Actions, Jenkins, Kubernetes and AWS interested in Containerization, Automation, and Cloud Infrastructure
+- 🎯 Actively seeking entry-level opportunity in Backend, DevOps and Cloud
 
 ---
 
 ### 🧰 Tools & Technologies
 
 <div align="left">
+
+<b>Languages</b>
+<br/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
 
 <b> Linux & Scripting</b>
 <br/>
