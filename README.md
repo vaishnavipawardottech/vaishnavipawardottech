@@ -14,7 +14,7 @@
 
 ### 🧰 Tools & Technologies
 
-<div align="left">
+<div align="center">
 
 <b>Languages</b>
 <br/>
