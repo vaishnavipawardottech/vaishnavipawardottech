@@ -4,7 +4,7 @@
 
 --- -->
 
-🌱 **About Me**
+# 💫 About Me:
 🎓 B-tech in Computer Engineering from VIIT, Pune (2022-2026)<br>💼 Completed an 8-month Software Engineering Internship at Vistora AI<br>⚙️ Skilled in Java, Spring Boot, JavaScript, Linux, Git, Docker, CI/CD, GitHub Actions, Jenkins, Kubernetes and AWS interested in Containerization, Automation, and Cloud Infrastructure<br>🎯 Actively seeking entry-level opportunity in Backend, DevOps and Cloud
 
 ---
@@ -67,10 +67,3 @@
 
 ---
 
-👉 **Let's Connect!**
-
-- 🔗 [LinkedIn](https://www.linkedin.com/in/vaishnavipawar04/)
-- 💻 [GitHub](https://github.com/vaishnavipawardottech)
-- 📧 pawarvaishnavi.3010@gmail.com  
-
----
