@@ -1,14 +1,11 @@
-<p align="center">
+<!-- <p align="center">
   <img src="./Vaishnavi_Pawar.png" width="100%" alt="Vaishnavi Pawar GitHub Banner">
 </p>
 
----
+--- -->
 
 🌱 **About Me**
-- 🎓 B-tech in Computer Engineering from VIIT, Pune (2022-2026)
-- 💼 Completed an 8-month Software Engineering Internship at Vistora AI
-- ⚙️ Skilled in Java, Spring Boot, JavaScript, Linux, Git, Docker, CI/CD, GitHub Actions, Jenkins, Kubernetes and AWS interested in Containerization, Automation, and Cloud Infrastructure
-- 🎯 Actively seeking entry-level opportunity in Backend, DevOps and Cloud
+🎓 B-tech in Computer Engineering from VIIT, Pune (2022-2026)<br>💼 Completed an 8-month Software Engineering Internship at Vistora AI<br>⚙️ Skilled in Java, Spring Boot, JavaScript, Linux, Git, Docker, CI/CD, GitHub Actions, Jenkins, Kubernetes and AWS interested in Containerization, Automation, and Cloud Infrastructure<br>🎯 Actively seeking entry-level opportunity in Backend, DevOps and Cloud
 
 ---
 
